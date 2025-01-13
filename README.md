@@ -1,4 +1,5 @@
 CS445: Natural Language Processing
+
 This repository contains the assignments and term project for CS445: Natural Language Processing (Fall 2024-2025).
 Contents
 
